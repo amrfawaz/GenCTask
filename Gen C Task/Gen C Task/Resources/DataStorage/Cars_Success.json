@@ -1,0 +1,40 @@
+{
+  "status" : {
+    "code": 200,
+    "message": "success"
+  },
+  "cars": [
+    {
+      "model": 2021,
+      "plateNumber": "ABC 123",
+      "brand": "Honda",
+      "unitPrice": "30.5",
+      "currency": "EGP",
+      "color": "RED"
+    },
+    {
+      "model": 2020,
+      "plateNumber": "EFG 321",
+      "brand": "Hyundai",
+      "unitPrice": "50.5",
+      "currency": "EGP",
+      "color": "BLUE"
+    },
+    {
+      "model": 2021,
+      "plateNumber": "XYZ 313",
+      "brand": "MG",
+      "unitPrice": "15.5",
+      "currency": "EGP",
+      "color": "BLACK"
+    },
+    {
+      "model": 2022,
+      "plateNumber": "ABC 123",
+      "brand": "Opel",
+      "unitPrice": "70.5",
+      "currency": "EGP",
+      "color": "WHITE"
+    }
+  ]
+}
